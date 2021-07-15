@@ -1,0 +1,29 @@
+img{
+    height: 600px;
+    width: 600px;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+p{
+   font-weight: bold;
+    text-align: left;
+}
+.movie_head{
+ font-size: 20px;
+ padding: 6px 22px;
+ border-radius: 10px;
+ margin-bottom: 15px;
+ width: 100%
+ disply: inline-block;
+}
+#achievementID{
+    padding-bottom: 10px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: orange;
+}
